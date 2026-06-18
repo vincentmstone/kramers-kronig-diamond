@@ -1,4 +1,4 @@
-# kramers-kronig
+# kramers-kronig-diamond
 Kramers Kronig Relations applied to the index of refraction of Diamond. 
 
 Task
