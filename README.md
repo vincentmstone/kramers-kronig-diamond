@@ -12,5 +12,6 @@ the same source. Quantify the agreement.
 zero. Plot the resulting n(λ) in the visible and briefly comment on see. Anything you can
 conclude about the physical origin of diamond’s visible high refractive index?
 
-Learning takeaways
+My learning takeaways
 - The KK relations seem very fundamental in the domain of signal responses, because they can be applied to any causal signal. This lends credibility to the idea of "complex electric succeptibility" having further physcial meaning than just being a mathematical trick.
+- Numerical integration seems widely applicable when working with real-life data sets, and so I would do well to be fluent in knowing when/how to apply this technique.
